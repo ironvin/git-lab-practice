@@ -1,1 +1,3 @@
-# git-lab-practice
+# Git Lab Practice
+
+GitHub Lab Assignment
